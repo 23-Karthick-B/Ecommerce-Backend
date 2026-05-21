@@ -442,14 +442,6 @@ http://54.xx.xxx.xxx:8080/api/products
 ✔ Scalable infrastructure  
 ✔ Demonstrates cloud deployment skills
 
----
-# Future Improvements
-
-- Authentication and Authorization
-- Shopping cart management
-- Payment integration
-- Admin dashboard
-- API documentation using Swagger
 
 ---
 
